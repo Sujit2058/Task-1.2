@@ -103,4 +103,4 @@ The goal of Task 1.2 is to make the app **stable, functional, and visually impro
 ---
 
 ## ✍️ Author
-**[Your Name]**
+**Sujit Prajapati**
